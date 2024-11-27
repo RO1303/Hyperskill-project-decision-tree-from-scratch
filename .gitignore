@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Decision Tree from Scratch/*
+!/Decision Tree from Scratch/task/
+/Decision Tree from Scratch/task/*
+!/Decision Tree from Scratch/task/decision_tree_from_scratch.py
+!/Decision Tree from Scratch/task/test
